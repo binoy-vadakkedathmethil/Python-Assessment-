@@ -61,10 +61,10 @@ Before performing the analysis, the dataset was cleaned and prepared:
 The following visualizations were created:
 
 -  Count Plot – Employee distribution by team
--  Bar Chart – Employee distribution by position
--  Count Plot – Age group distribution
+-  Count Plot – Employee distribution by position
+-  barplot – Age group distribution
 -  Bar Chart – Salary expenditure by team and position
--  Scatter Plot – Age vs Salary correlation
+-  Scatter Plot Or Heat map – Age vs Salary correlation
 
 These visualizations helped identify patterns and trends clearly.
 
@@ -73,7 +73,7 @@ These visualizations helped identify patterns and trends clearly.
 ##  Key Insights (Data Story)
 
 - Most employees belong to a few dominant teams, indicating concentrated operational focus.
-- The majority of employees fall within the 25–35 age group, suggesting a young and dynamic workforce.
+- The majority of employees fall within the 25–30 age group, suggesting a young and dynamic workforce.
 - Senior-level positions account for the highest salary expenditure.
 - Certain teams significantly impact the company’s payroll budget.
 - A positive correlation between age and salary indicates salary growth with experience.
